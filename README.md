@@ -1,2 +1,2 @@
 # africa_countries_json
-The repository contain all the Africa Countries in json format
+The repository contain all African Countries in json format for your use.
